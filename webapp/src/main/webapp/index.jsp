@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning - Docker FULLY automated.</h1>
+   <h1> Thankyou, Happy Learning - K8s FULLY automated.</h1>
 
   
 </form>
